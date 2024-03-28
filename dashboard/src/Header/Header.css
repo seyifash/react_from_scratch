@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.App-header {
+    width: 100%;
+    display:flex;
+    color: #df334a;
+    align-items: center;
+    border-bottom: 3px solid #df334a;
+}
+.App-header h1 {
+    font-size: 1.5rem;
+
+}

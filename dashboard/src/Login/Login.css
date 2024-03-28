@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+.App-header img {
+    width: 200px;
+}
+.App-body {
+    font-size: 16px;
+    height: 380px;
+    border-bottom: 3px solid #df334a;
+    padding: 35px 40px 0 40px 
+}
+
+.App-body .form {
+    padding: 10px 0;
+}
+.App-body .form label,
+.App-body .form input {
+    margin-right: 10px;
+}
+
+.App-body .form input{
+    border: 1px solid  rgb(214, 210, 210);
+}
+.App-body .form button {
+    width: 35px;
+    font-weight: 500;
+    background: #FFF;
+    border: 1px solid  rgb(214, 210, 210);
+    border-radius: 4px;
+}

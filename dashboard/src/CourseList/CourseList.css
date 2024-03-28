@@ -1,0 +1,25 @@
+.courseTable {
+    width: 100%;
+    padding: 30px 30px;
+    height: 380px;
+    border-bottom: 3px solid #df334a;
+}
+.courseTable table {
+    width: 100%;
+    border: 1px solid rgb(221, 220, 220);
+}
+.courseTable table thead tr th {
+    border-bottom: 2px solid rgb(221, 220, 220);
+    font-size: 14px;
+}
+.header-cell {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 2px 0;
+}
+
+.courseTable table tbody tr td {
+    font-size: 12px;
+}
+

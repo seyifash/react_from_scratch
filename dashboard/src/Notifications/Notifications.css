@@ -1,0 +1,31 @@
+.container {
+    position: absolute;
+    top: 0;
+    right: 10px;
+}
+.container .menuItem {
+    font-size: 12px;
+    display: flex;
+    justify-content: flex-end;
+}
+.container .Notifications {
+    border: 1px solid #df334a;
+    border-style: dashed;
+    padding: 10px; 
+    font-size: 12px;
+   
+    position: relative;
+    width: 400px;
+}
+
+.container .Notifications ul {
+    padding: 10px 30px;
+
+}
+
+.container .Notifications li[data-notification-type="urgent"] {
+    color: red;
+}
+.container .Notifications li[data-notification-type="default"] {
+    color: blue;
+}
